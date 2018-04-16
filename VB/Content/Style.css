@@ -1,0 +1,14 @@
+﻿div.mycard {
+    width: 100%;
+}
+
+illustration {
+    float: left;
+    max-width: 100px;
+    margin: 0;
+}
+
+article {
+    margin-left: 100px;
+    padding-left: 1em;
+}
