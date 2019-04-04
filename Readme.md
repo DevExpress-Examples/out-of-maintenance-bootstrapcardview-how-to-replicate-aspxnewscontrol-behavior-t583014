@@ -5,7 +5,7 @@
 * [RSS.xslt](./CS/App_Data/RSS.xslt) (VB: [RSS.xslt](./VB/App_Data/RSS.xslt))
 * [Style.css](./CS/Content/Style.css)
 * **[Default.aspx](./CS/Default.aspx) (VB: [Default.aspx](./VB/Default.aspx))**
-* [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx](./VB/Default.aspx))
+* [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # BootstrapCardView - How to replicate ASPxNewsControl behavior
 
